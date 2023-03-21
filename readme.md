@@ -52,19 +52,19 @@ Le projet est découpé en 2 partie :
 
 4/ Test dans la console
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.001.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.001.png)
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.002.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.002.png)
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.003.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.003.png)
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.004.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.004.png)
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.005.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.005.png)
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.006.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.006.png)
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.007.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.007.png)
 
-![](Aspose.Words.9d388596-44dc-4419-a122-286c9f516f97.008.png)
+![](cahier-des-charges\.Words.9d388596-44dc-4419-a122-286c9f516f97.008.png)
 
